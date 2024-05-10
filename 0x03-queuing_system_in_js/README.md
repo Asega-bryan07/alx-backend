@@ -1,11 +1,5 @@
 Queuing System in JS
-Back-end
-JavaScript
-ES6
-Redis
-NodeJS
-ExpressJS
-Kue
+Back-end, JavaScript, ES6, Redis, NodeJS, ExpressJS, Kue
 
 Resources
 Read or watch:
